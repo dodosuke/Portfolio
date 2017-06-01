@@ -1,0 +1,19 @@
+.header {
+  text-align: right;
+  font-family: "Lucida Console", monospace;
+  color: #7d97ad;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 300px;
+  height: 400px;
+  background-color: red;
+}
